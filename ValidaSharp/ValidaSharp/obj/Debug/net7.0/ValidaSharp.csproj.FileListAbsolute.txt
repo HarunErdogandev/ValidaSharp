@@ -1,0 +1,12 @@
+C:\Users\İf(contains(nope))\Source\Repos\ValidaSharp\ValidaSharp\bin\Debug\net7.0\ValidaSharp.deps.json
+C:\Users\İf(contains(nope))\Source\Repos\ValidaSharp\ValidaSharp\bin\Debug\net7.0\ValidaSharp.dll
+C:\Users\İf(contains(nope))\Source\Repos\ValidaSharp\ValidaSharp\bin\Debug\net7.0\ValidaSharp.pdb
+C:\Users\İf(contains(nope))\Source\Repos\ValidaSharp\ValidaSharp\obj\Debug\net7.0\ValidaSharp.csproj.AssemblyReference.cache
+C:\Users\İf(contains(nope))\Source\Repos\ValidaSharp\ValidaSharp\obj\Debug\net7.0\ValidaSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İf(contains(nope))\Source\Repos\ValidaSharp\ValidaSharp\obj\Debug\net7.0\ValidaSharp.AssemblyInfoInputs.cache
+C:\Users\İf(contains(nope))\Source\Repos\ValidaSharp\ValidaSharp\obj\Debug\net7.0\ValidaSharp.AssemblyInfo.cs
+C:\Users\İf(contains(nope))\Source\Repos\ValidaSharp\ValidaSharp\obj\Debug\net7.0\ValidaSharp.csproj.CoreCompileInputs.cache
+C:\Users\İf(contains(nope))\Source\Repos\ValidaSharp\ValidaSharp\obj\Debug\net7.0\ValidaSharp.dll
+C:\Users\İf(contains(nope))\Source\Repos\ValidaSharp\ValidaSharp\obj\Debug\net7.0\refint\ValidaSharp.dll
+C:\Users\İf(contains(nope))\Source\Repos\ValidaSharp\ValidaSharp\obj\Debug\net7.0\ValidaSharp.pdb
+C:\Users\İf(contains(nope))\Source\Repos\ValidaSharp\ValidaSharp\obj\Debug\net7.0\ref\ValidaSharp.dll

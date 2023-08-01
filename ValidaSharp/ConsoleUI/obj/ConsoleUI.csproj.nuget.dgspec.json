@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\İf(contains(nope))\\Source\\Repos\\ValidaSharp\\ConsoleUI\\ConsoleUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\İf(contains(nope))\\Source\\Repos\\ValidaSharp\\ConsoleUI\\ConsoleUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\İf(contains(nope))\\Source\\Repos\\ValidaSharp\\ConsoleUI\\ConsoleUI.csproj",
+        "projectName": "ConsoleUI",
+        "projectPath": "C:\\Users\\İf(contains(nope))\\Source\\Repos\\ValidaSharp\\ConsoleUI\\ConsoleUI.csproj",
+        "packagesPath": "C:\\Users\\İf(contains(nope))\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\İf(contains(nope))\\Source\\Repos\\ValidaSharp\\ConsoleUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\İf(contains(nope))\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\İf(contains(nope))\\Source\\Repos\\ValidaSharp\\ValidaSharp\\ValidaSharp.csproj": {
+                "projectPath": "C:\\Users\\İf(contains(nope))\\Source\\Repos\\ValidaSharp\\ValidaSharp\\ValidaSharp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\İf(contains(nope))\\Source\\Repos\\ValidaSharp\\ValidaSharp\\ValidaSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\İf(contains(nope))\\Source\\Repos\\ValidaSharp\\ValidaSharp\\ValidaSharp.csproj",
+        "projectName": "ValidaSharp",
+        "projectPath": "C:\\Users\\İf(contains(nope))\\Source\\Repos\\ValidaSharp\\ValidaSharp\\ValidaSharp.csproj",
+        "packagesPath": "C:\\Users\\İf(contains(nope))\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\İf(contains(nope))\\Source\\Repos\\ValidaSharp\\ValidaSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\İf(contains(nope))\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
